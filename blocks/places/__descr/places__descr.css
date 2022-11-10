@@ -1,0 +1,12 @@
+.places__descr {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #fff;
+  padding-bottom: 26px;
+}
+
+.places__descr:last-child {
+  padding-bottom: 0;
+}

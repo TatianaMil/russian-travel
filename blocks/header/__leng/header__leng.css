@@ -1,0 +1,7 @@
+.header__leng {
+  list-style-type: none;
+  display: flex;
+  gap: 0 18px;
+}
+
+

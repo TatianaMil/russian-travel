@@ -1,0 +1,6 @@
+.places__item {
+  display: grid;
+  grid-template-columns: 460px fit-content(484px);
+  gap: 48px 40px;
+  margin-top: 80px;
+}
