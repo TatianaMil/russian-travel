@@ -12,3 +12,11 @@
   opacity: .8;
   transition: opacity .7s ease;
 }
+
+@media screen and (max-width:767px) {
+  .header__leng-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+
