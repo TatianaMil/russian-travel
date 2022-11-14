@@ -12,7 +12,6 @@
   .photo {
     grid-template-columns: repeat(3, 1fr);
     gap: 14px;
-    justify-items: center;
   }
 }
 
@@ -21,7 +20,6 @@
     padding: 85px 24px 0 24px;
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
-    justify-items: center;
   }
 }
 
@@ -30,6 +28,5 @@
     padding: 62px 16px 0 16px;
     grid-template-columns: repeat(1, 1fr);
     gap: 12px;
-    justify-items: center;
   }
 }

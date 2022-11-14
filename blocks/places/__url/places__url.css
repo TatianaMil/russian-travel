@@ -1,15 +1,9 @@
 .places__url {
+  text-transform: uppercase;
   margin: 0 0 12px 0;
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
   color: #aaa;
   letter-spacing: 2px;
-}
-
-@media screen and (max-width:767px) {
-  .places__url {
-    font-size: 12px;
-    line-height: 12px;
-  }
 }
