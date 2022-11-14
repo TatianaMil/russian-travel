@@ -1,7 +1,11 @@
 .places__links {
-  display: grid;
-  align-items: end;
-
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
 }
 
-
+@media screen and (max-width:767px) {
+  .places__links {
+    padding-left: 16px;
+  }
+}
