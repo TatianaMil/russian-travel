@@ -13,3 +13,5 @@
 
 * ссылка на страницу проекта:
 https://tatianamil.github.io/russian-travel/
+
+Проект завершен
